@@ -18,7 +18,7 @@ function Subtitle() {
 function Contact(){
   return(
     <div className="contact">
-        <a href="www.linkedin.com/in/volodymyr-dyzhak-95a687347"target="_blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/volodymyr-dyzhak-95a687347/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BL6NyD4baRBmP2aYiXlaa0g%3D%3D"target="_blank">LinkedIn</a>
         <span>·</span>
         <a href="mailto:volodymyrdyzhak@gmail.com">Email</a>
         <span>·</span>
