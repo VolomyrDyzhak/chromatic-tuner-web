@@ -18,7 +18,7 @@ function Subtitle() {
 function Contact(){
   return(
     <div className="contact">
-        <a href="linkedin.com/in/volodymyr-dyzhak-95a687347" target="_blank">LinkedIn</a>
+        <a href="www.linkedin.com/in/volodymyr-dyzhak-95a687347"target="_blank">LinkedIn</a>
         <span>·</span>
         <a href="mailto:volodymyrdyzhak@gmail.com">Email</a>
         <span>·</span>
@@ -32,7 +32,7 @@ function InfoBox() {
   return (
     <section className="info-box">
       <img 
-        src="/yo.png" 
+        src="yo.png" 
         alt="Profile" 
         className="profile-image"
       />
@@ -58,7 +58,7 @@ function AppPromotion() {
       <h3 className="promotion-title">Mi última App: Chromatic Tuner</h3>
       
       <img 
-        src="/logo.png" 
+        src="logo.png" 
         alt="Chromatic Tuner Logo" 
         className="promotion-logo" 
       />
