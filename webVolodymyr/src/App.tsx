@@ -10,7 +10,7 @@ function Header() {
 
 function Subtitle() {
   return (
-    <h2 className="subtitle">Software Engineer | Flutter & Unity Developer</h2>
+    <h2 className="subtitle">Full Stack Software Engineer</h2>
   );
 }
 
