@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://volomyrdyzhak.github.io/chromatic-tuner-web/sitemap.xml
